@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Common/Util.cs">
+    <Files>
+      <File FileName="Assets/RTM-Engine/Rtm-Scripts/Message/IMessage.cs" Line="7" Column="27" IsPinned="True" />
+      <File FileName="Assets/Scripts/Manager/RtmChatManager.cs" Line="289" Column="49" />
+      <File FileName="Assets/Scripts/Manager/DemoGameManager.cs" Line="77" Column="6" />
+      <File FileName="Assets/Scripts/Common/MessageGenerator.cs" Line="18" Column="46" />
+      <File FileName="Assets/Scripts/Controllers/PlayerController.cs" Line="58" Column="10" />
+      <File FileName="Assets/Scripts/Common/CommonVars.cs" />
+      <File FileName="Assets/RTM-Engine/Rtm-Scripts/RtmBase.cs" />
+      <File FileName="Assets/RTM-Engine/Rtm-Scripts/RtmChannelMember.cs" Line="1" Column="1" />
+      <File FileName="Assets/RTM-Engine/Rtm-Scripts/RtmClient.cs" />
+      <File FileName="Assets/RTM-Engine/Rtm-Scripts/native/AgoraRtmApiNative.cs" Line="310" Column="48" />
+      <File FileName="Assets/RTM-Engine/Rtm-Scripts/Message/TextMessage.cs" />
+      <File FileName="Assets/RTM-Engine/Rtm-Scripts/RtmChannelAttribute.cs" Line="7" Column="22" />
+      <File FileName="Assets/Scripts/Screen/TestHome.cs" Line="36" Column="6" />
+      <File FileName="Assets/Scripts/Common/AgoraConst.cs" Line="7" Column="39" />
+      <File FileName="Assets/Scripts/Common/Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Common/MonoSingleton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Common/Util.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="RTM-Engine" expanded="True">
+                <Node name="Rtm-Scripts" expanded="True">
+                  <Node name="Message" expanded="True" />
+                  <Node name="native" expanded="True" />
+                  <Node name="tools" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Common" expanded="True">
+                  <Node name="Util.cs" selected="True" />
+                </Node>
+                <Node name="Controllers" expanded="True" />
+                <Node name="Manager" expanded="True" />
+                <Node name="Screen" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ffdcf37d-d879-4459-86e9-9c6b57609bd8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

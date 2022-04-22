@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BE4C79C7-5A63-ED40-DB52-80128DAB93FE}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AgoraEngine/Demo/TestHelloUnityVideo.cs">
+    <Files>
+      <File FileName="Assets/AgoraEngine/Demo/TestHome.cs" Line="28" Column="61" />
+      <File FileName="Assets/AgoraEngine/Demo/TestHelloUnityVideo.cs" Line="22" Column="144" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hello-Video-Unity-Agora" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AgoraEngine" expanded="True">
+                <Node name="Demo" expanded="True">
+                  <Node name="TestHelloUnityVideo.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="02cd3a04-546b-4a50-82b3-93643c588333" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
